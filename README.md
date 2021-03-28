@@ -12,3 +12,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinl0har&show_icons=true&locale=en&layout=compact" alt="sachinl0har" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinl0har&show_icons=true&locale=en" alt="sachinl0har" /></p>
+
+
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=sachinl0har&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sachinl0har&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinl0har&theme=tokyonight&hide=batchfile">
