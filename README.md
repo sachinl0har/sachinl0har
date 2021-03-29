@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachin Lohar A.K.A ALPHAᴰᴱⱽ</h1>
 <h3 align="center">An aspiring Software Developer, a Verified Discord Bot Developer and an avid Website Developer. I'm super passionate about learning and exploring the endless world of technology. And I am currently experimenting in the C/C++ and Python eco-system.</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sachinl0har-ops-cyber" alt="sachinl0har-ops-cyber" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
