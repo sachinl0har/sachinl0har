@@ -8,7 +8,6 @@
 <p align="left">
 <a href="https://discord.com/users/736977089307345004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.com/users/736977089307345004" height="30" width="40" /></a>
 </p>
-  [![Discord](https://discord.c99.nl/widget/theme-1/736977089307345004.png)
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
