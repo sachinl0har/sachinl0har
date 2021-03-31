@@ -1,4 +1,4 @@
-[![banner](https://media.discordapp.net/attachments/773005768458764349/826873462802219028/sachin.jpg?width=922&height=576)](https://sachinlohar.ml)
+[![banner](https://media.discordapp.net/attachments/773005768458764349/826873462802219028/sachin.jpg?width=1203&height=476)](https://sachinlohar.ml)
 
 <h1 align="center">Hi 👋, I'm Sachin Lohar A.K.A ALPHAᴰᴱⱽ</h1>
 <h3 align="center">An aspiring Software Developer, a Verified Discord Bot Developer and an avid Website Developer. I'm super passionate about learning and exploring the endless world of technology. And I am currently experimenting in the C/C++ and Python eco-system.</h3>
