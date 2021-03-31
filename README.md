@@ -1,4 +1,4 @@
-[![banner](https://media.discordapp.net/attachments/773005768458764349/826873462802219028/sachin.jpg?width=1203&height=676)](https://sachinlohar.ml)
+[![banner](https://media.discordapp.net/attachments/773005768458764349/826873462802219028/sachin.jpg?width=922&height=308)](https://sachinlohar.ml)
 
 <h1 align="center">Hi 👋, I'm Sachin Lohar A.K.A ALPHAᴰᴱⱽ</h1>
 <h3 align="center">An aspiring Software Developer, a Verified Discord Bot Developer and an avid Website Developer. I'm super passionate about learning and exploring the endless world of technology. And I am currently experimenting in the C/C++ and Python eco-system.</h3>
@@ -8,6 +8,7 @@
 <p align="left">
 <a href="https://discord.com/users/736977089307345004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.com/users/736977089307345004" height="30" width="40" /></a>
 </p>
+  ![Discord](https://discord.c99.nl/widget/theme-1/736977089307345004.png)
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
