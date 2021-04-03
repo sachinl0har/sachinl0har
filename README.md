@@ -7,6 +7,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.com/users/736977089307345004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.com/users/736977089307345004" height="30" width="40" /></a>
+            <a href="https://twitter.com/sachinl0har" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
+          <a href="https://github.com/sachinl0har" target="_blank" class="github"><i class="bx bxl-github"></i></a>
+          <a href="https://www.instagram.com/psyacts/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+          <a href="https://www.youtube.com/channel/UCHLP80NnYpefYCQEavl8tnQ" target="_blank" class="youtube"><i class="bx bxl-youtube"></i></a>
+          <a href="https://www.patreon.com/sachinl0har?fan_landing=true" class="patreon" target="_blank"><i class="bx bxl-patreon"></i></a>
+          <a href="https://discord.com/users/736977089307345004" target="_blank" class="discord"><i class="bx bxl-discord"></i></a>
+	  <a href="https://codepen.io/alpha0424" target="_blank" class="codepen"><i class="bx bxl-codepen"></i></a>
+	<a href="https://www.linkedin.com/in/sachin-lohar-20b957205/" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
