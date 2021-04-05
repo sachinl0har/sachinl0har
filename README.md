@@ -9,6 +9,13 @@
 <a href="https://discord.com/users/736977089307345004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.com/users/736977089307345004" height="30" width="40" /></a>
 	<a href="https://twitter.com/sachinl0har" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/sachinl0har" height="30" width="40" /></a>
 	<a href="https://www.linkedin.com/in/sachin-lohar-20b957205/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sachin-lohar-20b957205/" height="30" width="40" /></a>
+	<a href="https://stackoverflow.com/users/15559115/sachin-lohar" target="blank">
+  <img align="center" alt="sachinl0har stack overflow" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=sachin.l0har0424@gmail.com&tf=cm">
+  <img align="center" alt="Sachin L0har Email" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 </p>
 
