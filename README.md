@@ -37,7 +37,7 @@
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=sachinl0har&theme=dracula&count_private=true"></div>
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sachinl0har&show_icons=true&hide_border=true&theme=tokyonight" /> </td>
