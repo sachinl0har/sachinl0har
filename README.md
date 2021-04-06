@@ -36,4 +36,11 @@
 
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=sachinl0har&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sachinl0har&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinl0har&theme=tokyonight&hide=batchfile">
+
+<table width="100%">
+  <tr>
+    <td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dynamitechetan&show_icons=true&hide_border=true&theme=tokyonight" /> </td>
+ <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynamitechetan&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>
+  </tr>
+ <table>
