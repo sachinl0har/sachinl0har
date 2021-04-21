@@ -4,7 +4,6 @@
 <h3 align="center">An aspiring Software Developer, a Verified Discord Bot Developer and an avid Website Developer. I'm super passionate about learning and exploring the endless world of technology. And I am currently experimenting in the C/C++ and Python eco-system.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sachinl0har-ops-cyber" alt="sachinl0har-ops-cyber" /> </p>
 
-<p align="center"> <img src="https://discord.c99.nl/widget/theme-2/736977089307345004.png" alt="Discord" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
