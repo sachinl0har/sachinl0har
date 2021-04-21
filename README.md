@@ -5,8 +5,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sachinl0har-ops-cyber" alt="sachinl0har-ops-cyber" /> </p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://discord.com/users/736977089307345004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.com/users/736977089307345004" height="30" width="40" /></a>
 	<a href="https://twitter.com/sachinl0har" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/sachinl0har" height="30" width="40" /></a>
 	<a href="https://www.linkedin.com/in/sachin-lohar-20b957205/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sachin-lohar-20b957205/" height="30" width="40" /></a>
