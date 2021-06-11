@@ -50,6 +50,3 @@
  <table>
 
 	 
-	 HackerRank
-	 
-	 <img align="center" alt="Sachin L0har Email" height="30" width="40" src="https://www.hackerrank.com/certificates/44a886ed2f87" />
