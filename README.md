@@ -1,6 +1,6 @@
 [![banner](https://media.discordapp.net/attachments/773005768458764349/826873462802219028/sachin.jpg?width=1203&height=500)](https://sachinlohar.ml)
 
-<h1 align="center">Hi 👋, I'm Sachin Lohar A.K.A ALPHAᴰᴱⱽ</h1>
+<h1 align="center">Hi 👋, I'm Sachin Lohar</h1>
 <h3 align="center">An aspiring Programmer, a Verified Discord Bot Developer and a Web Developer. I'm super passionate about learning and exploring the endless world of technology. And I am currently experimenting in the C/C++, Java and Python eco-system.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sachinl0har-ops-cyber" alt="sachinl0har-ops-cyber" /> </p>
 
