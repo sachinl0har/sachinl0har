@@ -1,7 +1,7 @@
 [![banner](https://media.discordapp.net/attachments/773005768458764349/826873462802219028/sachin.jpg?width=1203&height=500)](https://sachinl0har.me)
 
-<h1 align="center">Hi 👋, I'm Sachin Lohar</h1>
-<h3 align="center">An aspiring Programmer, a Verified Discord Bot Developer and a Web Developer. I'm super passionate about learning and exploring the endless world of technology. And I am currently experimenting in the C/C++, Java and Python eco-system.</h3>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/sachinl0har/">Sachin Lohar</a></h1>
+<h3 align="center">Hi, I'm Sachin Lohar, a Coder/Programmer/Developer. I’m currently a student of Second Year Computer Science, I love building things that people want! I’m eager to learn brand new things and I really like taking part in games and competitions. Now i am Currently working in C/C++, Java and Python</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sachinl0har-ops-cyber" alt="sachinl0har-ops-cyber" /> </p>
 
 
