@@ -44,7 +44,7 @@
 <table width="100%" align="center">
   <tr>
     <td>
-![Sachinl0har's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinl0har&show_icons=true&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sachinl0har&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
  </td>
  <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinl0har&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>
   </tr>
