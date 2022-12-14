@@ -1,4 +1,4 @@
-[![banner](https://user-images.githubusercontent.com/69034411/182526845-b71220cc-10c4-4515-bed3-9e4d312abb56.jpg)](https://www.sachinlohar.tech/)
+[![banner](https://user-images.githubusercontent.com/69034411/182526845-b71220cc-10c4-4515-bed3-9e4d312abb56.jpg)](https://www.sachinlohar.com/)
 
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/sachinl0har/" target="_blank">Sachin Lohar</a></h1>
 <h3 align="center">"Hi, I'm Sachin Lohar, a Coder/Programmer/Developer. I’m currently a student of Computer Science, I love building things that people want! I’m eager to learn brand new things and I really like taking part in games and competitions. Now i am Currently working in C/C++, Java and Python."</h3>
