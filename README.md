@@ -17,8 +17,8 @@
   <img align="center" alt="sachinl0har Insta" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="https://mail.google.com/mail/u/0/?fs=1&to=sachin.l0har0424@gmail.com&tf=cm">
-  <img align="center" alt="Sachin L0har Email" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=contact@sachinlohar.com&tf=cm">
+  <img align="center" alt="Sachin Lohar Email" height="30" width="40" style="color: #ffffff !important;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 </p>
